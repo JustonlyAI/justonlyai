@@ -1,5 +1,7 @@
 <div align="center">
-  
+
+<img src="banner.jpg" alt="Calvin Janson - AI Integration & Full-Stack Developer" width="100%"/>
+
 # Hey, I'm Calvin 👋
 
 ### 🚀 AI Integration & Full-Stack Developer
@@ -18,14 +20,6 @@
 
 > *I help businesses automate processes, connect platforms, and build modern websites using AI-powered development and smart integrations.*
 
-```text
-🔗 API & Middleware      ████████████████████░░   90%
-⚙️ Workflow Automation   ██████████████████░░░░   85%
-🌐 WordPress Dev         ████████████████████░░   90%
-🛒 Shopify Development   █████████████████░░░░░   80%
-🤖 AI-Powered Solutions  ██████████████████░░░░   85%
-```
-
 <div align="center">
 
 ### 🛠️ Tech Stack
@@ -40,111 +34,6 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Apache Camel](https://img.shields.io/badge/Apache%20Camel-F69923?style=for-the-badge&logo=apache&logoColor=white)
-
-</div>
-
----
-
-## 🎯 Services I Offer
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🤖 AI & Automation
-
-<img width="60" src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png"/>
-
----
-
-✅ AI-Powered Development<br>
-✅ Chatbot Integration<br>
-✅ OpenAI / GPT Solutions<br>
-✅ Smart Data Processing<br>
-✅ AI Workflow Automation
-
-</td>
-<td align="center" width="33%">
-
-### 🔗 Integrations
-
-<img width="60" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png"/>
-
----
-
-✅ REST API Development<br>
-✅ Middleware Solutions<br>
-✅ n8n Workflow Automation<br>
-✅ Apache Camel Integration<br>
-✅ Third-Party API Connections
-
-</td>
-<td align="center" width="33%">
-
-### ⚙️ Automation
-
-<img width="60" src="https://cdn-icons-png.flaticon.com/512/2040/2040504.png"/>
-
----
-
-✅ Business Process Automation<br>
-✅ Data Sync & Migration<br>
-✅ Scheduled Tasks & Jobs<br>
-✅ E-commerce Automation<br>
-✅ Custom Workflow Solutions
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-### 🌐 WordPress
-
-<img width="60" src="https://cdn-icons-png.flaticon.com/512/174/174881.png"/>
-
----
-
-✅ Custom Theme Development<br>
-✅ Plugin Development<br>
-✅ WooCommerce Setup<br>
-✅ Performance Optimization<br>
-✅ Website Maintenance
-
-</td>
-<td align="center" width="33%">
-
-### 🛒 Shopify
-
-<img width="60" src="https://cdn-icons-png.flaticon.com/512/825/825500.png"/>
-
----
-
-✅ Store Setup & Configuration<br>
-✅ Theme Customization<br>
-✅ App Integrations<br>
-✅ Payment Gateway Setup<br>
-✅ Product Import & Migration
-
-</td>
-<td align="center" width="33%">
-
-### 💻 Full-Stack Dev
-
-<img width="60" src="https://cdn-icons-png.flaticon.com/512/1336/1336494.png"/>
-
----
-
-✅ Web Application Development<br>
-✅ Frontend & Backend<br>
-✅ Database Design<br>
-✅ TypeScript / Node.js<br>
-✅ Cloud Deployment
-
-</td>
-</tr>
-</table>
 
 </div>
 
